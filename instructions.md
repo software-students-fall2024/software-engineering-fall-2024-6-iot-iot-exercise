@@ -58,7 +58,7 @@ Each team must have at least 3 standup meetings per week. In these meetings, eac
 
 One team member must collect the answers each team member gave to each of these questions and post a report of the standup to the team's communication channel. For example:
 
-```
+```text
 Standup Report - January 24 2023
 --------------------------------
 
